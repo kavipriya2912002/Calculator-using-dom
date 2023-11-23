@@ -33,6 +33,13 @@ button{
   
 }
 
+#description{
+  font-size: x-large;
+}
+#title{
+  font-size: xx-large;
+}
+
 h1{
   font-size: 28px;
   font-family: 'Courier New', Courier, monospace;
